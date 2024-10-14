@@ -3,7 +3,6 @@
 // -- Helps with immutable classes
 // -- Less need for exposing setters
 
-
 class Computer {
   private parts: string[] = [];
 
